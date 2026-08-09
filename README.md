@@ -15,11 +15,10 @@
 - 🎓 Grade 12 Student from Ethiopia
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 💻 Building real-world AI applications
-- 🧠 Interested in Computer Vision, Healthcare AI, LLMs, and Recommendation Systems
+- 🧠 Interested in AI , ML , Deep learning, and computer vision
 - 👥 Founder & President of Visionary AI Initiative (VAII)
 - 🏆 National Mathematics Competition Finalist
-- 🎹 Church Pianist & Choir Member
-- 📚 Learning Machine Learning, Deep Learning, MLOps, and Full-Stack Development
+- 📚 Learning Machine Learning, Deep Learning, and Full-Stack Development
 - 🌍 Goal: Build AI that improves healthcare, education, and communities.
 
 ---
@@ -83,7 +82,7 @@ Also Experienced With
 - Transfer Learning
 - Computer Vision
 
-🚗 AI Car Recommendation System
+🚗 Obama Store
 
 - Machine Learning
 - Modern E-commerce Frontend
@@ -98,9 +97,7 @@ Also Experienced With
 
 🎓 Student Management System
 
-- Java
 - OOP
-- Desktop Application
 
 ---
 
@@ -131,7 +128,6 @@ Also Experienced With
 - 🏆 National Mathematics Competition Finalist
 - 🤖 AI Summer Camp Participant
 - 👥 Founder of Visionary AI Initiative (VAII)
-- 🎹 Church Pianist & Choir Member
 
 ---
 
@@ -141,9 +137,6 @@ Also Experienced With
 - Deep Learning
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- MLOps
-- Docker
-- Cloud Deployment
 
 ---
 
