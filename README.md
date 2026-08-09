@@ -55,46 +55,56 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <td>Java · OOP</td>
 </tr>
 </table><br><h2><span style="color:#58A6FF;">Leadership & Achievements</span></h2><table>
-<tr>
-<td align="center" width="33%"><strong>Visionary AI Initiative</strong>
+<tr><td align="center" width="33%"><strong>Visionary AI Initiative</strong>
 
-<br>Founder & President
+<br><br>
+
+Founder & President
 
 </td><td align="center" width="33%"><strong>National Mathematics Competition</strong>
 
-<br>Finalist
+<br><br>
+
+Finalist
 
 </td><td align="center" width="33%"><strong>Ethiopian AI Summer Camp</strong>
 
-<br>Participant
+<br><br>
 
-</td>
-</tr>
+Participant
+
+</td></tr>
 </table><br><h2><span style="color:#58A6FF;">Current Focus</span></h2><div align="center"><strong>Machine Learning</strong>
 
 <br>
-<span style="color:#58A6FF; font-size:22px;">↓</span>
+<span style="color:#58A6FF;">↓</span>
 <br><strong>Deep Learning</strong>
 
 <br>
-<span style="color:#58A6FF; font-size:22px;">↓</span>
+<span style="color:#58A6FF;">↓</span>
 <br><strong>Computer Vision & LLMs</strong>
 
 <br>
-<span style="color:#58A6FF; font-size:22px;">↓</span>
+<span style="color:#58A6FF;">↓</span>
 <br><strong>RAG & AI Applications</strong>
 
 <br>
-<span style="color:#58A6FF; font-size:22px;">↓</span>
+<span style="color:#58A6FF;">↓</span>
 <br><strong>MLOps & Deployment</strong>
 
-</div><br><h2><span style="color:#58A6FF;">GitHub Activity</span></h2><p align="center"><a href="https://github.com/obama-DS">
-<img src="https://github-readme-stats.vercel.app/api?username=obama-DS&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
-</a></p><p align="center">
-<a href="https://github.com/obama-DS?tab=repositories">
-<strong>View repositories and commits →</strong>
-</a>
-</p><br><h2><span style="color:#58A6FF;">Connect</span></h2><p align="center"><a href="https://github.com/obama-DS">
+</div><br><h2><span style="color:#58A6FF;">GitHub Activity</span></h2><p align="center"><a href="https://github.com/obama-DS?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
+</a> 
+
+<a href="https://github.com/obama-DS">
+<img src="https://img.shields.io/badge/Commits-58A6FF?style=for-the-badge&logo=git&logoColor=white" height="34" />
+</a> 
+
+<a href="https://github.com/obama-DS?tab=overview">
+<img src="https://img.shields.io/badge/Activity-0A66C2?style=for-the-badge&logo=github&logoColor=white" height="34" />
+</a></p><p align="center"><a href="https://github.com/obama-DS">
+<strong>View GitHub contributions →</strong>
+</a></p><br><h2><span style="color:#58A6FF;">Connect</span></h2><p align="center"><a href="https://github.com/obama-DS">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="34" />
 </a><a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" />
