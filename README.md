@@ -70,20 +70,18 @@ Programming
 <td><strong>Student Management System</strong></td>
 <td>Application for managing student information and academic records.</td>
 <td>Java · OOP</td>
-</tr></table>
+</tr>
+</table>
 
 <font color="#58A6FF">Leadership & Achievements</font>
 
 Visionary AI Initiative (VAII)
-
 Founder & President
 
 National Mathematics Competition
-
 Finalist
 
 Ethiopian AI Summer Camp
-
 Participant
 
 
@@ -107,17 +105,15 @@ RAG & AI Applications
 
 MLOps & Deployment
 
-</div>---
+</div>
 
 <font color="#58A6FF">GitHub Activity</font>
 
-<p align="center"><img height="180"
-src="https://github-readme-stats.vercel.app/api?username=obama-DS&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=obama-DS&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" />
-
-</p><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=obama-DS&bg_color=00000000&color=8B949E&line=58A6FF&point=58A6FF&area=true&hide_border=true" /></p>---
+<p align="center"><a href="https://github.com/obama-DS">
+<img src="https://github-readme-stats.vercel.app/api?username=obama-DS&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" />
+</a></p><p align="center"><a href="https://github.com/obama-DS?tab=repositories">
+<strong>View repositories and commits →</strong>
+</a></p>
 
 <font color="#58A6FF">Connect</font>
 
@@ -129,8 +125,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=obama-DS&lay
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="34" />
 </a><a href="https://www.kaggle.com/obama_DS">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="34" />
-</a><a href="https://t.me/obama12300">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="34" />
 </a></p><div align="center"><sub>Learning by building · Building to solve meaningful problems</sub>
 
-</div>
+</div> 
