@@ -90,7 +90,6 @@ Participant
 
 <br>
 <span style="color:#58A6FF;">↓</span>
-<br><strong>MLOps & Deployment</strong>
 
 </div><br><h2><span style="color:#58A6FF;">GitHub Activity</span></h2><p align="center"><a href="https://github.com/obama-DS?tab=repositories">
 <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
