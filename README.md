@@ -23,8 +23,6 @@ I learn by building projects, experimenting with ideas, and turning problems int
 
 My main interests are AI, Machine Learning, Deep learning, Computer Vision, LLMs, and intelligent applications.
 
----
-
 Technical Skills
 
 Programming
@@ -53,7 +51,6 @@ AI Car Recommendation System| ML-powered recommendation system integrated into a
 Crop Recommendation System| Recommends suitable crops based on environmental and soil conditions.| Python · Pandas · Scikit-Learn
 Student Management System| Application for managing student information and academic records.| Java · OOP
 
----
 
 Leadership & Achievements
 
@@ -65,7 +62,6 @@ Finalist
 
 Ethiopian AI Summer Camp
 Participant
----
 
 Current Focus
 
@@ -79,7 +75,6 @@ RAG & AI Applications
       ↓
 MLOps & Deployment
 
----
 
 GitHub Activity
 
