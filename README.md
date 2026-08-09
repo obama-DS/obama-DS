@@ -16,7 +16,7 @@
 &nbsp;
 <a href="https://www.kaggle.com/obama_DS">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32" />
-</a></div>---
+</a></div>
 
 <font color="#58A6FF">About</font>
 
@@ -26,7 +26,6 @@ I learn by building projects, experimenting with ideas, and turning problems int
 
 My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs, and intelligent applications.
 
----
 
 <font color="#58A6FF">Technical Skills</font>
 
@@ -46,7 +45,7 @@ Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,flask,fastapi,git,github,vscode&perline=8" height="65" />
-</p>---
+</p>
 
 <font color="#58A6FF">Selected Projects</font>
 
@@ -71,7 +70,7 @@ Programming
 <td><strong>Student Management System</strong></td>
 <td>Application for managing student information and academic records.</td>
 <td>Java · OOP</td>
-</tr></table>---
+</tr></table>
 
 <font color="#58A6FF">Leadership & Achievements</font>
 
@@ -87,7 +86,6 @@ Ethiopian AI Summer Camp
 
 Participant
 
----
 
 <font color="#58A6FF">Current Focus</font>
 
