@@ -1,6 +1,6 @@
 <div align="center"><h1>Obama Abraham</h1><h3>
 AI & Machine Learning Enthusiast · Student Developer · Problem Solver
-</h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+AI;Learning+by+Building;Exploring+Machine+Learning;/><br><br>
+</h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+AI;Learning+by+Building;Exploring+Machine+Learning"/><br><br>
 
 <a href="https://github.com/obama-DS">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="32" />
