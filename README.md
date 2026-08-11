@@ -138,22 +138,6 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <a href="https://github.com/obama-DS/"><strong>View GitHub contributions →</strong></a>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=obama-DS&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obama-DS&layout=compact&hide_border=true" height="180" />
-</p>
-
-<br>
-
-<h2><span style="color:#58A6FF;">Connect</span></h2>
-
-<p align="center">
-<a href="https://github.com/obama-DS"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="34" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" /></a>&nbsp;
-<a href="https://leetcode.com/u/obama_DS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="34" /></a>&nbsp;
-<a href="https://www.kaggle.com/obama_DS"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="34" /></a>
-</p>
-
 <br>
 
 <div align="center">
