@@ -1,6 +1,6 @@
 <div align="center"><h1>Obama Abraham</h1><h3>
 AI & Machine Learning Enthusiast · Student Developer · Problem Solver
-</h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+AI;Learning+by+Building;Exploring+Machine+Learning;Turning+Ideas+into+Working+Systems" /><br><br>
+</h3><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+AI;Learning+by+Building;Exploring+Machine+Learning/><br><br>
 
 <a href="https://github.com/obama-DS">
 <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="32" />
@@ -16,11 +16,11 @@ AI & Machine Learning Enthusiast · Student Developer · Problem Solver
 &nbsp;
 <a href="https://www.kaggle.com/obama_DS">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32" />
-</a></div><br><h2><span style="color:#58A6FF;">About</span></h2>I'm a student developer from Ethiopia interested in Artificial Intelligence, Machine Learning, applied Mathematics, and Software Engineering.
+</a></div><br><h2><span style="color:#58A6FF;">About</span></h2>I'm a student developer from Ethiopia interested in Artificial Intelligence, Machine Learning, applied Mathematics.
 
-I learn by building projects, experimenting with ideas, and turning problems into working systems.
+I learn by building projects,and experimenting with ideas.
 
-My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs, and intelligent applications.
+My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs.
 
 <br><h2><span style="color:#58A6FF;">Technical Skills</span></h2><h3>Programming</h3><p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript&perline=5" height="65" />
