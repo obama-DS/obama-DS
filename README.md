@@ -51,29 +51,8 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <td>Python · Pandas · Scikit-Learn</td>
 </tr><tr>
 <td><strong>Student Management System</strong></td>
-<td>Application for managing student information and academic records.</td>
-<td>Java · OOP</td>
-</tr>
-</table><br><h2><span style="color:#58A6FF;">Leadership & Achievements</span></h2><table>
-<tr><td align="center" width="33%"><strong>Visionary AI Initiative</strong>
-
-<br><br>
-
-Founder & President
-
-</td><td align="center" width="33%"><strong>National Mathematics Competition</strong>
-
-<br><br>
-
-Finalist
-
-</td><td align="center" width="33%"><strong>Ethiopian AI Summer Camp</strong>
-
-<br><br>
-
-Participant
-
-</td></tr>
+<td>ongoing management system, managing student information and academic records.</td>
+<td>OOP</td>
 </table><br><h2><span style="color:#58A6FF;">Current Focus</span></h2><div align="center"><strong>Machine Learning</strong>
 
 <br>
