@@ -10,27 +10,10 @@ AI & Machine Learning Enthusiast · Student Developer · Problem Solver
 
 <br><br>
 
-<a href="https://github.com/obama-DS">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="32" />
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-</a>
-
-&nbsp;
-
-<a href="https://leetcode.com/u/obama_DS/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="32" />
-</a>
-
-&nbsp;
-
-<a href="https://www.kaggle.com/obama_DS">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32" />
-</a>
+<a href="https://github.com/obama-DS"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="32" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" /></a>&nbsp;
+<a href="https://leetcode.com/u/obama_DS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="32" /></a>&nbsp;
+<a href="https://www.kaggle.com/obama_DS"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="32" /></a>
 
 </div>
 
@@ -108,7 +91,6 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <td>Ongoing management system, managing student information and academic records.</td>
 <td>OOP</td>
 </tr>
-
 </table>
 
 <br>
@@ -120,31 +102,24 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <strong>Machine Learning</strong>
 
 <br>
-
 <span style="color:#58A6FF;">↓</span>
-
 <br>
 
 <strong>Deep Learning</strong>
 
 <br>
-
 <span style="color:#58A6FF;">↓</span>
-
 <br>
 
 <strong>Computer Vision & LLMs</strong>
 
 <br>
-
 <span style="color:#58A6FF;">↓</span>
-
 <br>
 
 <strong>RAG & AI Applications</strong>
 
 <br>
-
 <span style="color:#58A6FF;">↓</span>
 
 </div>
@@ -154,31 +129,18 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <h2><span style="color:#58A6FF;">GitHub Activity</span></h2>
 
 <p align="center">
-
-<a href="https://github.com/obama-DS?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" height="34" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/obama-DS">
-<img src="https://img.shields.io/badge/Commits-58A6FF?style=for-the-badge&logo=git&logoColor=white" height="34" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/obama-DS?tab=overview">
-<img src="https://img.shields.io/badge/Activity-0A66C2?style=for-the-badge&logo=github&logoColor=white" height="34" />
-</a>
-
+<a href="https://github.com/obama-DS?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" height="34" /></a>&nbsp;
+<a href="https://github.com/obama-DS/"><img src="https://img.shields.io/badge/Commits-58A6FF?style=for-the-badge&logo=git&logoColor=white" height="34" /></a>&nbsp;
+<a href="https://github.com/obama-DS/"><img src="https://img.shields.io/badge/Activity-0A66C2?style=for-the-badge&logo=github&logoColor=white" height="34" /></a>
 </p>
 
 <p align="center">
+<a href="https://github.com/obama-DS/"><strong>View GitHub contributions →</strong></a>
+</p>
 
-<a href="https://github.com/obama-DS">
-<strong>View GitHub contributions →</strong>
-</a>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=obama-DS&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obama-DS&layout=compact&hide_border=true" height="180" />
 </p>
 
 <br>
@@ -186,29 +148,14 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 <h2><span style="color:#58A6FF;">Connect</span></h2>
 
 <p align="center">
-
-<a href="https://github.com/obama-DS">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="34" />
-</a>
-
-<a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" />
-</a>
-
-<a href="https://leetcode.com/u/obama_DS/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="34" />
-</a>
-
-<a href="https://www.kaggle.com/obama_DS">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="34" />
-</a>
-
+<a href="https://github.com/obama-DS"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" height="34" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/obama-abraham-assefa-234901377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" /></a>&nbsp;
+<a href="https://leetcode.com/u/obama_DS/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="34" /></a>&nbsp;
+<a href="https://www.kaggle.com/obama_DS"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="34" /></a>
 </p>
 
 <br>
 
 <div align="center">
-
 <sub>Learning by building · Building to solve meaningful problems</sub>
-
 </div>
