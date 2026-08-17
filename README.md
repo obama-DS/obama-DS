@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Obama Abraham</h1>
+<h1>Obama Abraham </h1>
 
 <h3>
 AI & Machine Learning Enthusiast · Student Developer · Problem Solver
