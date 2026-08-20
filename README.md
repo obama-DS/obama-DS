@@ -31,7 +31,7 @@ My main interests are AI, Machine Learning, Deep Learning, Computer Vision, LLMs
 
 <h2><span style="color:#58A6FF;">Technical Skills</span></h2>
 
-<h3>Programming</h3>
+<h3>Programming </h3>
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript&perline=5" height="65" />
